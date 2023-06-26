@@ -7,3 +7,6 @@ Orange S.A., formerly France Telecom S.A., is a French multinational telecommuni
 ### Summary
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. Telephone service companies, Internet service providers, pay TV companies, insurance firms, often use customer attrition analysis and customer attrition rates as one of their key business metrics because the cost of retaining an existing customer is far less than acquiring a new one. Companies from these sectors often have customer service branches which attempt to win back defecting clients, because recovered long-term customers can be worth much more to a company than newly recruited clients. The analysis and data visualization are done to find factors on which churn depends and recommendations given reduce this churn.
+
+### Here is the Dashboard link:
+https://public.tableau.com/app/profile/ashfaque.sayyed/viz/Customerchurnanalysistableauweek1assignment/Dashboard1
